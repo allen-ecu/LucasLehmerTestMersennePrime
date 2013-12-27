@@ -368,5 +368,5 @@ http://developer.amd.com/tools-and-sdks/heterogeneous-computing/amd-accelerated-
 http://hsa-libraries.github.io/Bolt/html/index.html
 
 
-Mao Weiqing		Pert, WA, Nov 29, 2013
+Mao Weiqing	Pert, WA		December 27, 2013
 
